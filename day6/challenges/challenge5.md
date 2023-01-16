@@ -89,11 +89,7 @@ $ docker image ls
 ```
 Output will be something like:
 ```shell
-
 REPOSITORY                TAG                 IMAGE ID            CREATED             SIZE
-=======
-REPOSITORY            TAG                 IMAGE ID            CREATED             SIZE
-
 your_dockerhub_id/mysql   v1                  2dfc8038fc98        13 hours ago        448MB
 your_dockerhub_id/php     v1                  53959f571f38        13 hours ago        484MB
 ```
